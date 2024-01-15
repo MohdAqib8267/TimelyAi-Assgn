@@ -20,8 +20,8 @@ Node.js, Express, PostgreSQL, Postman.
 > 3.To start development run
 > ### npm run dev
 >
-> ## Database Schema
-> ### Table: Posts
+# Database Schema
+### Table: Posts
 | Column      | Type       | Details                        |
 |-------------|------------|--------------------------------|
 | id          | Integer    | Primary Key, Autoincrement     |
