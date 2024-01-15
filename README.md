@@ -1,4 +1,4 @@
-[TimelyAi.postman_collection.json](https://github.com/MohdAqib8267/TimelyAi-Assgn/files/13937041/TimelyAi.postman_collection.json)# Assignment
+# Assignment
 
 # Description of the project.
 
@@ -7,6 +7,10 @@ https://documenter.getpostman.com/view/21628908/2s9YsNfB3W
 
 ## Exported Postman Collection
 [Download Postman collection](https://drive.google.com/file/d/1nz9UEd_IPiMLHozAPB2VeO3k-ZJ57FSZ/view?usp=sharing)
+
+OR
+
+[TimelyAi.postman_collection.json](https://github.com/MohdAqib8267/TimelyAi-Assgn/files/13937041/TimelyAi.postman_collection.json)
 
 
 
