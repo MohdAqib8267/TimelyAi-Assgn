@@ -5,6 +5,9 @@
 ## API DOCUMENTATION
 https://documenter.getpostman.com/view/21628908/2s9YsNfB3W
 
+## Exported Postman Collection
+[Uploading TimelyAi.postman_collection.json…]()
+
 
 ## Used Tech stack:
 Node.js, Express, PostgreSQL, Postman.
