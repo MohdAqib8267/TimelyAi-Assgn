@@ -6,7 +6,7 @@
 https://documenter.getpostman.com/view/21628908/2s9YsNfB3W
 
 ## Exported Postman Collection
-[Download Postman collection]([path/to/your/file.json](https://drive.google.com/file/d/1nz9UEd_IPiMLHozAPB2VeO3k-ZJ57FSZ/view?usp=sharing))
+[Download Postman collection](https://drive.google.com/file/d/1nz9UEd_IPiMLHozAPB2VeO3k-ZJ57FSZ/view?usp=sharing)
 
 
 
